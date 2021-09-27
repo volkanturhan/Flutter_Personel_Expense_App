@@ -1,4 +1,4 @@
-# myapp
+# Flutter Personel Expense App
 
 A new Flutter project.
 
